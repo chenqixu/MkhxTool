@@ -1,0 +1,15 @@
+--------------------------------------------------------
+2014-03-06 09:59:10
+CookieQ:u%3Dqyvax180%26n%3D%26r%3D%26qid%3D317741271%26im%3D220255dq9816%26s%3Dquc%26src%3Dmpc_open_ms_200251906-3%26t%3D1%26le%3D
+CookieT:s%3Daf6d4c30251fa28e3fbb5e77515c1caf%26t%3D1394071142%26a%3D0%26v%3D1.0%26lm%3D
+authorizationCode:31774127131dfae023de708027c19ee2a43a7918dfee77575
+
+url:http://91passport.mysticalcard.com/mpassport.php?do=plogin&v=8671&
+data:Udid=C4%3A6A%3AB7%3A86%3ABE%3A51&authorizationCode=31774127131dfae023de708027c19ee2a43a7918dfee77575&plat=safe360&IDFA=&newguide=1
+status:200
+statusText:null
+responseHeaders:null: HTTP/1.1 200Content-Length: 91Via: HTTP/1.1 GWASet-Cookie: _sid=uel0e4tsia6onve1k4ge1au0i2; expires=Sun, 16-Mar-2014 01:59:08 GMT; path=/Expires: Thu, 19 Nov 1981 08:52:00 GMTServer: nginxConnection: keep-alivePragma: no-cacheCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0Date: Thu, 06 Mar 2014 01:59:09 GMTContent-Type: text/htmlSet-Cookie: _sid=uel0e4tsia6onve1k4ge1au0i2; expires=Sun, 16-Mar-2014 01:59:08 GMT; path=/
+responseHeadersMap:{null=[HTTP/1.1 200], Date=[Thu, 06 Mar 2014 01:59:09 GMT], Content-Length=[91], Expires=[Thu, 19 Nov 1981 08:52:00 GMT], Via=[HTTP/1.1 GWA], Set-Cookie=[_sid=uel0e4tsia6onve1k4ge1au0i2; expires=Sun, 16-Mar-2014 01:59:08 GMT; path=/, _sid=uel0e4tsia6onve1k4ge1au0i2; expires=Sun, 16-Mar-2014 01:59:08 GMT; path=/], Connection=[keep-alive], Content-Type=[text/html], Server=[nginx], Pragma=[no-cache], Cache-Control=[no-store, no-cache, must-revalidate, post-check=0, pre-check=0]}
+Content-Encoding:
+ResponseText:{"status":0,"message":"\u83b7\u53d6access_token\u5931\u8d25\uff0c\u8bf7\u91cd\u8bd5\uff01"}
+--------------------------------------------------------

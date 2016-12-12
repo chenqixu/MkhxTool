@@ -1,0 +1,10 @@
+--------------------------------------------------------
+2014-03-21 16:27:02
+CookieQ:u%3Dqyvax165%26n%3D%26r%3D%26qid%3D301174488%26im%3D220255dq9816%26s%3Dquc%26src%3Dmpc_open_ms_200251906-3%26t%3D1%26le%3D
+CookieT:s%3Dfc499c12615f18b0ab5ce26a5eb4d51d%26t%3D1395390415%26a%3D0%26v%3D1.0%26lm%3D
+authorizationCode:301174488f17b329ec93a43934b4fd21a9f11e38568ff8fe9
+
+url:http://91passport.mysticalcard.com/mpassport.php?do=plogin&v=5312&
+data:Udid=C4%3A6A%3AB7%3A86%3ABE%3A51&authorizationCode=301174488f17b329ec93a43934b4fd21a9f11e38568ff8fe9&plat=safe360&IDFA=&newguide=1
+java.net.ConnectException: Connection refused: connect
+--------------------------------------------------------

@@ -1,0 +1,21 @@
+--------------------------------------------------------
+2014-03-04 16:14:22
+
+url:http://s4.mysticalcard.com/login.php?do=NineOneLogin&v=2421&phpp=ANDROID&phpl=ZH_CN&pvc=1.4.0&pvb=2013-11-22%2009%3A59%3A27
+data:sessionId=02e8d67b944a53f83cef84217a2e946d&newguide=1&Devicetoken=&loginUin=443732375&Origin=91ND&Udid=C4%3A6A%3AB7%3A86%3ABE%3A51&nickName=dlink164&IDFA=
+status:200
+statusText:null
+responseHeaders:null: HTTP/1.1 200Content-Length: 55Via: HTTP/1.1 GWASet-Cookie: _sid=lvshr34qhugsm5vjd4k4i26eu0; expires=Fri, 14-Mar-2014 08:14:21 GMT; path=/Expires: Thu, 19 Nov 1981 08:52:00 GMTServer: nginxConnection: keep-alivePragma: no-cacheCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0Date: Tue, 04 Mar 2014 08:14:21 GMTContent-Type: text/htmlSet-Cookie: _sid=lvshr34qhugsm5vjd4k4i26eu0; expires=Fri, 14-Mar-2014 08:14:21 GMT; path=/
+responseHeadersMap:{null=[HTTP/1.1 200], Date=[Tue, 04 Mar 2014 08:14:21 GMT], Content-Length=[55], Expires=[Thu, 19 Nov 1981 08:52:00 GMT], Via=[HTTP/1.1 GWA], Set-Cookie=[_sid=lvshr34qhugsm5vjd4k4i26eu0; expires=Fri, 14-Mar-2014 08:14:21 GMT; path=/, _sid=lvshr34qhugsm5vjd4k4i26eu0; expires=Fri, 14-Mar-2014 08:14:21 GMT; path=/], Connection=[keep-alive], Content-Type=[text/html], Server=[nginx], Pragma=[no-cache], Cache-Control=[no-store, no-cache, must-revalidate, post-check=0, pre-check=0]}
+Content-Encoding:
+ResponseText:{"status":0,"message":"SessionId\u65e0\u6548","type":5}
+
+url:http://s4.mysticalcard.com/user.php?do=GetUserinfo&OpenCardChip=1&v=2421&phpp=ANDROID&phpl=ZH_CN&pvc=1.4.0&pvb=2013-11-22%2009%3A59%3A27
+data:
+status:200
+statusText:null
+responseHeaders:null: HTTP/1.1 200Content-Length: 107Via: HTTP/1.1 GWAExpires: Thu, 19 Nov 1981 08:52:00 GMTServer: nginxConnection: keep-alivePragma: no-cacheCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0Date: Tue, 04 Mar 2014 08:14:22 GMTContent-Type: text/html
+responseHeadersMap:{null=[HTTP/1.1 200], Date=[Tue, 04 Mar 2014 08:14:22 GMT], Content-Length=[107], Expires=[Thu, 19 Nov 1981 08:52:00 GMT], Via=[HTTP/1.1 GWA], Connection=[keep-alive], Content-Type=[text/html], Server=[nginx], Pragma=[no-cache], Cache-Control=[no-store, no-cache, must-revalidate, post-check=0, pre-check=0]}
+Content-Encoding:
+ResponseText:{"status":0,"message":"\u7f51\u7edc\u94fe\u63a5\u5df2\u65ad\u5f00 \u8bf7\u91cd\u65b0\u767b\u5f55","type":1}
+--------------------------------------------------------
